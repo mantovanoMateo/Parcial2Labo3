@@ -1,0 +1,68 @@
+{
+  "aislar" : {
+    "arrayGenerico" : [ {
+      "nroDeKit" : "0fc31321-7191-4270-a052-841302e1d912",
+      "registro" : {
+        "temperatura" : 38,
+        "dni" : "42322678"
+      }
+    }, {
+      "nroDeKit" : "6e7398d9-ab39-4467-b6e1-b6220fbae383",
+      "registro" : {
+        "temperatura" : 38,
+        "dni" : "40458234"
+      }
+    } ]
+  },
+  "sanos" : {
+    "arrayGenerico" : [ {
+      "nombre" : "lautaro",
+      "apellido" : "celuce",
+      "edad" : 24,
+      "barrio" : "sancarlos",
+      "ocupacion" : "ing. naval",
+      "nroKit" : "e95238b9-b538-4cc3-9002-f14a0eab6f2b",
+      "temperatura" : 37,
+      "random" : {
+        "deprecated" : false
+      },
+      "dni" : "41234789"
+    }, {
+      "nombre" : "julian",
+      "apellido" : "gimenez",
+      "edad" : 27,
+      "barrio" : "puerto",
+      "ocupacion" : "java developer",
+      "nroKit" : "88d3b62a-6003-4dbb-8c89-6d97edd3f0a5",
+      "temperatura" : 36,
+      "random" : {
+        "deprecated" : false
+      },
+      "dni" : "40329765"
+    }, {
+      "nombre" : "bautista",
+      "apellido" : "franco",
+      "edad" : 26,
+      "barrio" : "lostroncos",
+      "ocupacion" : "vendedor",
+      "nroKit" : "15497400-50ee-4f60-987e-5981bb9099a6",
+      "temperatura" : 36,
+      "random" : {
+        "deprecated" : false
+      },
+      "dni" : "40555777"
+    }, {
+      "nombre" : "lautaro",
+      "apellido" : "echeverria",
+      "edad" : 27,
+      "barrio" : "primerajunta",
+      "ocupacion" : "backend developer",
+      "nroKit" : "4965f6f2-d3ca-4677-b0d3-09eb73136aa2",
+      "temperatura" : 37,
+      "random" : {
+        "deprecated" : false
+      },
+      "dni" : "40333888"
+    } ]
+  }
+}
